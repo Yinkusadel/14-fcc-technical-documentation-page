@@ -17,3 +17,11 @@ body {
   border-right: solid;
   border-color: #00161666;
 }
+
+header {
+  color: black;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: lighter;
+}
