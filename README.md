@@ -16,6 +16,9 @@ Additional description of the project and its features.
 - ul, li
 - nav
 - code
+- CSS 
+- media query
+- pseudo selector
 
 ## Live Demo
 
