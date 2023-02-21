@@ -1,6 +1,6 @@
-# Project Name
+# Technical Documentation Page
 
-> One paragraph statement about the project.
+> A technical documentation page using html and css.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,18 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- p
+- article
+- section
+- header
+- ul, li
+- nav
+- code
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://14-fcc-technical-documentation-page.netlify.app)
 
 ### Development (Running locally)
 
