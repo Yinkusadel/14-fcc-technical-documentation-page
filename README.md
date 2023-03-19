@@ -8,17 +8,25 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- p
-- article
-- section
-- header
-- ul, li
-- nav
-- code
-- CSS
-- media query
-- pseudo selector
+- ### HTML5 elements
+  - **Heading element**
+    `header`
+  - **Block element**
+    `p` `nav`
+  - **Inline element**
+    `code`
+  - **ordered list**
+    `ol` `li`
+- ### CSS properties
+  - CSS media query for page responsiveness using `@media` rule,
+  - CSS positioning `absolute` `relative`,
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `id selector` `pseudo selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
