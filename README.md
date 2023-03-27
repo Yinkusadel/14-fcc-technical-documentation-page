@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-### This PR adds a Technical Documentation Page using basic html ,CSS media queries,and other css properties.
+### A Technical Documentation Page using basic html ,CSS media queries,and other css properties.
 
 ## Built With
 
