@@ -4,8 +4,6 @@
 
 ![screenshot](./app_screenshot.png)
 
-### A Technical Documentation Page using basic html ,CSS media queries,and other css properties.
-
 ## Built With
 
 - ### HTML5 elements
