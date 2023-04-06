@@ -1,6 +1,6 @@
 # Technical Documentation Page
 
-> A technical documentation page using html and css.
+> A technical documentation page using basic html ,CSS media queries,and other css properties.
 
 ![screenshot](./app_screenshot.png)
 
